@@ -29,3 +29,5 @@
     D.false they are not same type
     E.false ture = 1
     F.true 
+16. == will convet the types of two variables to be same. === will not convert types
+17.How are you? trur !=2, true = 1. so it will not go into if, Boolean(2) =  true, so it will go into else if
