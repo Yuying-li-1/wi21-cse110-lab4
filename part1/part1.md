@@ -10,3 +10,9 @@
 10. Error, no such variable. The variable discounted price is only visible inside for loop
 11.  It will print 0, since the variable finalPrice is const, so it is impossible to change it value
 12. [0, 0, 0] since the variable finalPrice is const, so it is impossible to change it value
+13. A.student.name
+    B.student['Grad Year']
+    C.student.greeting();
+    D.student['Favorite Teacher'].name
+    E. student.courseLoad[0]
+     
