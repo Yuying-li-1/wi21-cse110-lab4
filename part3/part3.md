@@ -1,7 +1,7 @@
 What was the bug? <br>
 It cannot calculate the correct sum of two numbers. It just connect two numbers as connecting two strings.<br>
 ![img1](https://raw.githubusercontent.com/Yuying-li-1/wi21-cse110-lab4/main/part3/lab4_1.png)
-![img2](https://raw.githubusercontent.com/Yuying-li-1/wi21-cse110-lab4/main/part3/lab4_2.png)
+![img2](https://raw.githubusercontent.com/Yuying-li-1/wi21-cse110-lab4/main/part3/lab4_4.png)
 How would you fix it? <br>
 convert num1 and num2 into corret types.
 ![img3](https://raw.githubusercontent.com/Yuying-li-1/wi21-cse110-lab4/main/part3/lab4_3.png)
