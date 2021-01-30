@@ -1,4 +1,4 @@
-1. It will print the length of prices -1
+1. It will print the length of prices
 2. It will print the last prices after discount 
 3. It will print the rounded lasr prince after discount
 4. [50, 100, 150] the function will count the prince after 50% discount.
@@ -21,14 +21,14 @@
     D.3null null will be converted into string "null", it will connect 2 strings <br>
     E.4 true will be converted into 1<br>
     F.0 null and false will be converted into 0<br>
-    G.3undefined undefinced will be converted into string "undefined", it will connected two strings <br>
+    G.3undefined undefinced will be converted into number NaN <br>
     H.NaN undefinced will be converted into string "undefined", but two strings connot be subtract
 15. A.true string '2' becomes a number 2<br>
     B.false first char '2' is greater than '1'<br>
     C.true string '2' becomes a number 2<br>
     D.false they are not same type<br>
     E.false ture = 1<br>
-    F.true 
+    F.true Boolean(2) will be converted into Boolean true, and true === true.
 16. == will convet the types of two variables to be same. === will not convert types
 17. How are you? trur !=2, true = 1. so it will not go into if, Boolean(2) =  true, so it will go into else if
 19. Array [6, 8, 10] <br>    
