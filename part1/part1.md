@@ -33,4 +33,4 @@
 17. How are you? trur !=2, true = 1. so it will not go into if, Boolean(2) =  true, so it will go into else if
 19. Array [6, 8, 10] <br>    
 after run modifyArray([1,2,3], doSomething), for each number num in array [1,2,3], it will run doSomething(num,function(x)). Then it will run function(num+2). function(num+2) will return (num+2)*2 to dosomthing(num,function(x)). Then dosomthing(num,function(x)) will return (num+2)*2 to the for loop inside modifyArray([1,2,3], doSomething) and push the value into array newArr, and newArr will be returned.
-22. It will immediately print number '1' and number '2'. Then it will immedia6eooy print number '3'. Then after the function start to run 1 second, print out number '2'.
+22.  After the function start to run 1 second, print out number '2'.Then it will immedia6eooy print number '3'.It will immediately print number '1' and number '4'.
