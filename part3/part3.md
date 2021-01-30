@@ -14,3 +14,4 @@ convert num1 and num2 into corret types.
 6. Apache
 7. Tue, 26 Jan 2021 22:14:13 GMT
 8. application/json
+9. fetchData
